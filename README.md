@@ -1,5 +1,8 @@
 # vue-cli-plugin-moment
 
+[![NPM](https://img.shields.io/npm/v/vue-cli-plugin-moment.svg)](https://www.npmjs.com/package/vue-cli-plugin-moment)
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/scottbedard/vue-cli-plugin-moment/blob/master/LICENSE)
+
 This plugin configures webpack's use of moment.js to only include a few locales. Desired locales can be set by entering a CSV of [moment.js locales](https://github.com/moment/moment/tree/develop/locale) during installation, or by setting them manually in your `vue.config.js`. Below is an example configuration that includes only the English locales.
 
 ```js
