@@ -1,7 +1,6 @@
 module.exports = [
     {
-        description: 'Enter desired locales as a comma seperated list',
-        message: 'Enter locals',
+        message: 'Enter a comma seperated list of locales',
         name: 'locales',
         type: 'input',
     },
