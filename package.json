@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-moment",
+  "version": "0.1.0",
+  "description": "moment.js plugin for vue-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottbedard/vue-cli-plugin-moment.git"
+  },
+  "keywords": [
+    "vue-cli",
+    "moment.js"
+  ],
+  "author": "Scott Bedard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottbedard/vue-cli-plugin-moment/issues"
+  },
+  "homepage": "https://github.com/scottbedard/vue-cli-plugin-moment#readme"
+}
